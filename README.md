@@ -18,7 +18,7 @@ This project demonstrates the use of ensemble machine learning techniques to pre
 
 ## Usage
 1. Place your dataset in the specified directory (update the path in the notebook if needed).
-2. Open `models_comparisons.ipynb` in Jupyter or VS Code.
+2. Open `EnsembleLearning.ipynb` in Jupyter or VS Code.
 3. Run the notebook cells sequentially to preprocess data, train models, and view results.
 
 ## Output
